@@ -1,7 +1,3 @@
-Table of Contents
-=================
-[Click to Return to HomePage Table of Contents](../../README.md)
-
 # Quirks in BSSw Processing and Styling
 ## Need to be double checked and moved to style guide. Rinku to take a look.
 

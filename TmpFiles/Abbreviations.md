@@ -1,9 +1,6 @@
-Table of Contents
-=================
-[Click to Return to HomePage Table of Contents](../../README.md)
+# Abbreviations Used on the BSSw Site 
 
-### Abbreviations Used on the BSSw Site 
-### (Needs to be checked if the site uses it. In the past, the main site used this to avoid doing bad things to acronyms! Need to check with Clara).
+# (Needs to be checked if the site uses it. In the past, the main site used this to avoid doing bad things to acronyms! Need to check with Clara).
 
 
 - ACM: Association for Computing Machinery
@@ -40,7 +37,3 @@ Table of Contents
 - URSSI: United States Research Software Sustainability Institute
 - WSSSPE: Workshop on Sustainable Software for Science Practice and Experiences
 - xSDK: Extreme-scale Scientific Software Development Kit
-
-<!--
-Publish: no
--->

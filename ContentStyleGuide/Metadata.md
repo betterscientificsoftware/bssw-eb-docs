@@ -1,10 +1,4 @@
-Table of Contents
-===============================
-[Click to Return to HomePage Table of Contents](../../README.md)
-
-[Click to Return to Content Style Guide main page](ContentStyleGuide.md)
-
-## Understanding Metadata
+# Understanding Metadata
 For all content types, we have the following meta-data that needs to be put, at the bottom of the file.
 - **Publish**: Publish on the BSSw front-end site?
 - **Categories**: Specify 1 or more categories (primary display via BSSw website)
@@ -15,14 +9,14 @@ For all content types, we have the following meta-data that needs to be put, at 
 
 Each aspect of metadata is described below.
 
-#### Publish
+## Publish
 This is used to Publish on the BSSw front-end site.
 - Publish: Yes
 - Publish: No
 
 Only files designated as 'Publish: Yes' will be published on the front-end BSSw site.  Work that has not been finalized or is not intended for the front-end site should be designated 'Publish: No'. *ISNT THERE A PREVIEW OPTION, AS WELL?*
 
-#### Categories
+## Categories
 Categories are primaily display via BSSw website interface.
 [BSSw curators may add/revise topics as needed over time.]
 - Planning
@@ -32,7 +26,7 @@ Categories are primaily display via BSSw website interface.
 - Collaboration
 - Skills
 
-#### Topics
+## Topics
 Topics are visible filters via BSSw website interface.
 - All categories and also finer grain topics within categories
   [Topics: 4-7 per category: family of topics that make sense together. BSSw curators may add/revise topics as needed over time.]
@@ -69,12 +63,12 @@ Topics are visible filters via BSSw website interface.
     - Personal productivity and sustainability
     - Online learning
 
-#### Tags
+## Tags
 Tags are optional additional keywords for searches
 *This needs to be described better. Its not clear to me how we are using this*
 - We currently do not use them for on front-end website. 
 
-#### Level
+## Level
 We specify level of detail and depth of content.
 *This needs to be described better. Its not clear to me how we are using this*
 - **Level 0**:  BSSw WhatIs document
@@ -82,7 +76,7 @@ We specify level of detail and depth of content.
 - **Level 2**:  More detailed content, beginner or intermediate levels
 - **Level 3**:  Advanced content
 
-#### Prerequisites
+## Prerequisites
 Used to specify files for any assumed knowledge on the BSSw site (usually Level 0 and Level1 BSSw docs)/
 *This needs to be described better. Its not clear to me how we are using this*
 - Most prerequisites are specified automatically according to Topics. In this case, use:
@@ -90,7 +84,7 @@ Used to specify files for any assumed knowledge on the BSSw site (usually Level 
 - Specify additional prerequisites only for information not already covered by Topics.
    - Prerequisites: filename1.md, filename2.md, etc.
 
-#### Aggregate
+## Aggregate
 This is optional info for aggregating content to define a more complex resource.
 *This needs to be described better. Its not clear to me how we are using this*
  - Aggregate: none
@@ -104,8 +98,3 @@ This is optional info for aggregating content to define a more complex resource.
 
 - Aggregate: stand-alone and subresource
    - The "stand-alone and subresource" specification indicates that the item will be both (1) listed as a separate resource on the front-end site and (2) used as a subresource, as specified by an aggregate "base" resource.
-
-
-<!---
-   Publish: no
----!>

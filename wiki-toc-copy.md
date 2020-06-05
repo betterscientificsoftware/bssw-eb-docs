@@ -1,7 +1,3 @@
-Table of Contents
-=================
-
-<!--ts-->
    * [About Us](Documentation/WhoAreWe.md)
      - [Code of Conduct]()
      - [Content Licensing]()

@@ -1,8 +1,4 @@
-Table of Contents
-=================
-[Click to Return to HomePage Table of Contents](../README.md)
-
-## Introduction to betterscientificsoftware.github.io
+# Introduction to betterscientificsoftware.github.io
 
 **Better Scientific Software** is an organization dedicated to [improving developer productivity](Site/Categories/Topics/WhatIsProductivity.md) and [improving software sustainability](Site/Categories/Topics/WhatIsSustainability.md) for computational science and engineering (CSE).
 
