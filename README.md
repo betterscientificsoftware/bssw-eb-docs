@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+Home Page: Table of Contents
+============================
 
-You can use the [editor on GitHub](https://github.com/betterscientificsoftware/bssw-eb-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!--ts-->
+   * [About Us](WhoAreWe.md)
+     - [Code of Conduct]()
+     - [Content Licensing]()
+     - [Funding Acknowledgement]()
+     - [Contact Us]()
+   * The BSSw.io Editorial Board
+     - [Editorial Board Charter]()
+     - [Editorial Board Current and Emeritus Members]()
+   * BSSw.io Content Submission
+     - [What Content is BSSw.io Seeking (BSSw.io document)?](WhatToContribute.md)
+     - [How can Authors contribute Content (BSSw.io document)?](HowToContribute.md)  
+   * BSSw.io Content Editorial Processes
+     - [Curated Content Workflow Process](PublContent/CuratedContentEditorialWorkflow.md)
+     - [Blog Workflow Process]()
+     - [Event Workflow Process]()
+   * Writing BSSw.io Content
+     - [Github Organization for New Content](OrgNewContent/OrganizeNewContent.md)
+     - [Style Guide for writing Content](ContentStyleGuide/ContentStyleGuide.md)
+   * Publishing Content to BSSw.io
+     - [Final Review Checklist for BSSw.io Content](PublContent/ContentReviewchecklist.md)
+   * BSSw.io Website Management
+     - [Highlighting Content on BSSw.io]()
+   * Supplementary Documentation
+     - [Previewing Pre-published Content]()
+     - [BSSw Monthly Digest]()
+   * Temporary files - Complete/Delete/Archive?
+     - [Temporary: Content Style Quirks](TmpFiles/StyleQuirks.md)
+     - [Temporary: BSSw.io Site Abbreviations](TmpFiles/Abbreviations.md)	
+     - [Needs to be finalized: BSSw Content Types](Site/ContentTypes.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!--te-->
 
-### Markdown
+### Introduction to betterscientificsoftware.github.io
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The content, on these pages, is presented for the BSSw.io Editorial
+board and source/backend support team members.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/betterscientificsoftware/bssw-eb-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!---
+Publish: no
+---!>
