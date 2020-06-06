@@ -28,6 +28,10 @@
   - [Temporary: BSSw.io Site Abbreviations](TmpFiles/Abbreviations.md)	
   - [Needs to be finalized: BSSw Content Types](Site/ContentTypes.md)
 
+##### Base URL
+
+{{ site.baseurl }}
+
 ### Pages
 
 <ul>
