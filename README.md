@@ -27,3 +27,18 @@
   - [Temporary: Content Style Quirks](TmpFiles/StyleQuirks.md)
   - [Temporary: BSSw.io Site Abbreviations](TmpFiles/Abbreviations.md)	
   - [Needs to be finalized: BSSw Content Types](Site/ContentTypes.md)
+
+### Pages
+
+<ul>
+{% for page in site.pages %}
+<li>{{ page.title }}, path = {{ page.path }} </li>
+{% endfor %}
+</ul>
+
+### Static Files
+<ul>
+{% for file in site.static_files %}
+<li>{{ file.modified_time | date: "%s" }}: {{ file.path }}</li>
+{% endfor %}
+</ul>
