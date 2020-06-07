@@ -36,3 +36,5 @@
   - [Temporary: Content Style Quirks](TmpFiles/StyleQuirks.md)
   - [Temporary: BSSw.io Site Abbreviations](TmpFiles/Abbreviations.md)	
   - [Needs to be finalized: BSSw Content Types](Site/ContentTypes.md)
+
+### [Password Protected Content](Protected/index.html)
