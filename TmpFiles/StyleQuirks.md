@@ -32,7 +32,3 @@ It seems that some example for the metadata that we need in articles used a thre
 * In-line (e.g. not banner) images seem to require specific width or they wind up getting the lightbox treatment
 * We don't seem to support images which are themselves links to other things (like maybe the same image at higher res)
 * Left, right, center positioning of images is not supported (though non-essential also)
-
-<!---
-Publish: No
----!>

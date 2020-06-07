@@ -16,7 +16,3 @@ For naming a content i.e. creating a filename, please follow the following rules
   - Sw = Software
   - etc.
 - Example filename: MyNewArticleTopic.md
-
-<!---
-   Publish: no
----!>

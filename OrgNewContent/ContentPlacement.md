@@ -7,7 +7,3 @@ Please place your new file in one of the following folders on the site, accordin
 - Articles/Blog
 - CuratedContent
 - Events
-
-<!---
-   Publish: no
----!>
