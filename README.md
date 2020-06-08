@@ -1,6 +1,7 @@
 ## BSSw Editorial Board Process Documents
 
 ### [About Us](About/index.md)
+  - [About this site](About/AboutThisSite.md)
   - [Code of Conduct]()
   - [Content Licensing]()
   - [Funding Acknowledgement]()
