@@ -1,6 +1,6 @@
 # Overview of Style for Curated Content
 
-A Curated content is a brief article that highlights other web-based content/resources. The written article should describe why the CSE community might find value in the linked content. A Curated content article can highlight the following 7 types of resources: (1) book, (2) organization, (3) publication, (4) tutorial, (5) web article, (6) webinar and (7) website.
+A Curated content article highlights other web-based content/resources. The brief written article should describe why the CSE community might find value in the linked content. A Curated content article can highlight the following 7 types of resources: (1) book, (2) organization, (3) publication, (4) tutorial, (5) web article, (6) webinar and (7) website.
 
 The following figure shows different parts of a curated content article.
 
