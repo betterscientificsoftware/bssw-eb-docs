@@ -20,7 +20,7 @@ modifications...
   * Removed all manual table of contents stuff
   * Removed all xml-style comments bracketed with `<!--` and `-->`
   * Created `index.md` files in each top-level directory
-* A simple password-protected subtree was added using
+* A simple [password-protected subtree](../Protected/index.md) was added using
   [static hashing from this project](https://github.com/pages-themes/leap-day). The
   demo password is `BsswIsGreat`.
 * The [Leap-day](https://github.com/pages-themes/leap-day) supports table of contents
